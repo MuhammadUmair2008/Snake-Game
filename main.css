@@ -1,0 +1,19 @@
+body {
+    background-color: greenyellow;
+}
+ img{
+    text-align: center;
+    border: 7px solid black;
+}
+input{
+    border: 4px  yellow solid;
+    display: inline block;
+    padding: 12px 15px;
+    color: white;
+    background-color: green;
+    font-weight: bold;
+    text-align: center;
+}
+h1 {
+    color:blue;
+}
